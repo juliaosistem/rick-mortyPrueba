@@ -10,10 +10,10 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @ComponentScan(basePackages = {"com.common.lib"})
 @EnableJpaRepositories(basePackages = {"com.common.lib.infraestructure.repository" ,"com.juliaosystem.infrastructure.repository"})
 @EntityScan(basePackages = {"com.common.lib.infraestructure.entitis" , "com.juliaosystem.infrastructure.entitis"})
-public class TemplateApplication {
+public class RickMortyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TemplateApplication.class, args);
+		SpringApplication.run(RickMortyApplication.class, args);
 	}
 
 }
