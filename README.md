@@ -34,7 +34,7 @@ com.juliaosystem.infrastructure.adapters.secondary
 
  adjunto imagen 
 
- ![Texto alternativo](https://github.com/Farius-red/rick-mortyPrueba/blob/master/imgDocumentacion/Arquitectura.png)
+ ![Texto alternativo](https://github.com/juliaosistem/rick-mortyPrueba/blob/master/imgDocumentacion/Arquitectura.png)
 
 
 

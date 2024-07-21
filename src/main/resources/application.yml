@@ -106,7 +106,7 @@ spring:
         enabled: false
 
 server:
-  port: 1212
+  port: 8080
 
 ---
 spring:
