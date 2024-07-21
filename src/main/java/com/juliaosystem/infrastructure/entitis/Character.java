@@ -1,4 +1,4 @@
-package com.juliaosystem.infraestructure.entitis;
+package com.juliaosystem.infrastructure.entitis;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
